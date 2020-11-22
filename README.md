@@ -1,5 +1,5 @@
 <h1 align="center">Hey there!👋&nbsp; I am Dhairya Ostwal.</h1>
-<h4 align="center">A Business Developement Manager turned Software Developer.</h3>
+<h4 align="center">A Business Development Manager turned Software Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyaostwal" alt="Dhairya Ostwal" /></p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhairyaostwal/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/dhairyaostwal/)
@@ -11,7 +11,7 @@
 
 ### Currently working on
 
-<img src="https://img.shields.io/badge/-blockchain-ffd800?style=for-the-badge"> <img src="https://img.shields.io/badge/-Algorithms-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Data structures-blueviolet?style=for-the-badge">  
+<img src="https://img.shields.io/badge/-blockchain solidity-ffd800?style=for-the-badge"> <img src="https://img.shields.io/badge/-Algorithms-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Data structures-blueviolet?style=for-the-badge">  
 
 
 ### What I want to learn
