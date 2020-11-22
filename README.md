@@ -7,18 +7,16 @@
 
 ### 2 Minutes to Describe Me 
 
-<img src="https://img.shields.io/badge/-html-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-css-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-javascript-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/-nodejs-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/-c++-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-PYTHON-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-SQl-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-POSTGRESQL-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Adobe--xd-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-FIGMA-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/-bootstrap-blue?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-html-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-css-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-javascript-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/-nodejs-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/-c++-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-PYTHON-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-SQl-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-POSTGRESQL-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Adobe--xd-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-FIGMA-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/-bootstrap-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-opencv-darkblue?style=for-the-badge">
 
-### This year also worked on
+### Currently working on
 
-**(Projects coming public soon ❗️)**
-
-<img src="https://img.shields.io/badge/-opencv-darkblue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Algorithms-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Data structures-blueviolet?style=for-the-badge">  
+<img src="https://img.shields.io/badge/-blockchain-ffd800?style=for-the-badge"> <img src="https://img.shields.io/badge/-Algorithms-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Data structures-blueviolet?style=for-the-badge">  
 
 
 ### What I want to learn
 
-<img src="https://img.shields.io/badge/-REACT-ffae42?style=for-the-badge"> <img src="https://img.shields.io/badge/-blockchain-ffd800?style=for-the-badge"> <img src="https://img.shields.io/badge/-PYTHON--Scripting-e1ad01?style=for-the-badge">
+<img src="https://img.shields.io/badge/-REACT-ffae42?style=for-the-badge">  <img src="https://img.shields.io/badge/-PYTHON--Scripting-e1ad01?style=for-the-badge">
 
 ### What else I love
 
