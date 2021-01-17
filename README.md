@@ -7,4 +7,4 @@
 
 ☘️ Currently learning React JS
 
-❓ More about me (here)[dhairyaostwal.netlify.app]
+❓ More about me [here](dhairyaostwal.netlify.app)
