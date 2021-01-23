@@ -10,6 +10,5 @@
 ❓ More about me [here](https://dhairyaostwal.netlify.app/)
 
 ### Recent Activity
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
