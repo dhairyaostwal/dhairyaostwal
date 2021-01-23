@@ -11,4 +11,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#32](https://github.com/Femme-js/Hoaxify/issues/32) in [Femme-js/Hoaxify](https://github.com/Femme-js/Hoaxify)
+2. 💪 Opened PR [#70](https://github.com/PragatiVerma18/Snippet-Share/pull/70) in [PragatiVerma18/Snippet-Share](https://github.com/PragatiVerma18/Snippet-Share)
+3. 🎉 Merged PR [#57](https://github.com/ieeessitvit/Core-GitHub-Practice/pull/57) in [ieeessitvit/Core-GitHub-Practice](https://github.com/ieeessitvit/Core-GitHub-Practice)
+4. ❌ Reopened PR [#57](https://github.com/ieeessitvit/Core-GitHub-Practice/pull/57) in [ieeessitvit/Core-GitHub-Practice](https://github.com/ieeessitvit/Core-GitHub-Practice)
+5. ❌ Closed PR [#57](https://github.com/ieeessitvit/Core-GitHub-Practice/pull/57) in [ieeessitvit/Core-GitHub-Practice](https://github.com/ieeessitvit/Core-GitHub-Practice)
 <!--END_SECTION:activity-->
