@@ -11,9 +11,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/Femme-js/Hoaxify/issues/32) in [Femme-js/Hoaxify](https://github.com/Femme-js/Hoaxify)
-2. 🎉 Merged PR [#5](https://github.com/ieeessitvit/resources/pull/5) in [ieeessitvit/resources](https://github.com/ieeessitvit/resources)
-3. ❗️ Closed issue [#67](https://github.com/PragatiVerma18/Snippet-Share/issues/67) in [PragatiVerma18/Snippet-Share](https://github.com/PragatiVerma18/Snippet-Share)
-4. 🗣 Commented on [#70](https://github.com/PragatiVerma18/Snippet-Share/issues/70) in [PragatiVerma18/Snippet-Share](https://github.com/PragatiVerma18/Snippet-Share)
-5. ❗️ Opened issue [#32](https://github.com/Femme-js/Hoaxify/issues/32) in [Femme-js/Hoaxify](https://github.com/Femme-js/Hoaxify)
+1. 🎉 Merged PR [#7](https://github.com/ieeessitvit/resources/pull/7) in [ieeessitvit/resources](https://github.com/ieeessitvit/resources)
+2. 🗣 Commented on [#32](https://github.com/Femme-js/Hoaxify/issues/32) in [Femme-js/Hoaxify](https://github.com/Femme-js/Hoaxify)
+3. 🎉 Merged PR [#5](https://github.com/ieeessitvit/resources/pull/5) in [ieeessitvit/resources](https://github.com/ieeessitvit/resources)
+4. ❗️ Closed issue [#67](https://github.com/PragatiVerma18/Snippet-Share/issues/67) in [PragatiVerma18/Snippet-Share](https://github.com/PragatiVerma18/Snippet-Share)
+5. 🗣 Commented on [#70](https://github.com/PragatiVerma18/Snippet-Share/issues/70) in [PragatiVerma18/Snippet-Share](https://github.com/PragatiVerma18/Snippet-Share)
 <!--END_SECTION:activity-->
