@@ -11,9 +11,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dhairyaostwal/TOS-Made-Private/pull/1) in [dhairyaostwal/TOS-Made-Private](https://github.com/dhairyaostwal/TOS-Made-Private)
-2. 🎉 Merged PR [#7](https://github.com/ieeessitvit/resources/pull/7) in [ieeessitvit/resources](https://github.com/ieeessitvit/resources)
-3. 🗣 Commented on [#32](https://github.com/Femme-js/Hoaxify/issues/32) in [Femme-js/Hoaxify](https://github.com/Femme-js/Hoaxify)
-4. 🎉 Merged PR [#5](https://github.com/ieeessitvit/resources/pull/5) in [ieeessitvit/resources](https://github.com/ieeessitvit/resources)
-5. ❗️ Closed issue [#67](https://github.com/PragatiVerma18/Snippet-Share/issues/67) in [PragatiVerma18/Snippet-Share](https://github.com/PragatiVerma18/Snippet-Share)
+1. 🗣 Commented on [#33](https://github.com/HarshCasper/AllNotes/issues/33) in [HarshCasper/AllNotes](https://github.com/HarshCasper/AllNotes)
+2. 🎉 Merged PR [#1](https://github.com/dhairyaostwal/TOS-Made-Private/pull/1) in [dhairyaostwal/TOS-Made-Private](https://github.com/dhairyaostwal/TOS-Made-Private)
+3. 🎉 Merged PR [#7](https://github.com/ieeessitvit/resources/pull/7) in [ieeessitvit/resources](https://github.com/ieeessitvit/resources)
+4. 🗣 Commented on [#32](https://github.com/Femme-js/Hoaxify/issues/32) in [Femme-js/Hoaxify](https://github.com/Femme-js/Hoaxify)
+5. 🎉 Merged PR [#5](https://github.com/ieeessitvit/resources/pull/5) in [ieeessitvit/resources](https://github.com/ieeessitvit/resources)
 <!--END_SECTION:activity-->
