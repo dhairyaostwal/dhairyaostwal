@@ -11,9 +11,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/dhairyaostwal/node-express-course/issues/1) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
-2. 🗣 Commented on [#33](https://github.com/HarshCasper/AllNotes/issues/33) in [HarshCasper/AllNotes](https://github.com/HarshCasper/AllNotes)
-3. 🎉 Merged PR [#1](https://github.com/dhairyaostwal/TOS-Made-Private/pull/1) in [dhairyaostwal/TOS-Made-Private](https://github.com/dhairyaostwal/TOS-Made-Private)
-4. 🎉 Merged PR [#7](https://github.com/ieeessitvit/resources/pull/7) in [ieeessitvit/resources](https://github.com/ieeessitvit/resources)
-5. 🗣 Commented on [#32](https://github.com/Femme-js/Hoaxify/issues/32) in [Femme-js/Hoaxify](https://github.com/Femme-js/Hoaxify)
+1. ❗️ Reopened issue [#4](https://github.com/dhairyaostwal/node-express-course/issues/4) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
+2. ❗️ Closed issue [#4](https://github.com/dhairyaostwal/node-express-course/issues/4) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
+3. ❗️ Closed issue [#3](https://github.com/dhairyaostwal/node-express-course/issues/3) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
+4. ❗️ Closed issue [#1](https://github.com/dhairyaostwal/node-express-course/issues/1) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
+5. 🗣 Commented on [#33](https://github.com/HarshCasper/AllNotes/issues/33) in [HarshCasper/AllNotes](https://github.com/HarshCasper/AllNotes)
 <!--END_SECTION:activity-->
