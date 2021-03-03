@@ -11,9 +11,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#4](https://github.com/dhairyaostwal/node-express-course/issues/4) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
-2. ❗️ Closed issue [#4](https://github.com/dhairyaostwal/node-express-course/issues/4) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
-3. ❗️ Closed issue [#3](https://github.com/dhairyaostwal/node-express-course/issues/3) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
-4. ❗️ Closed issue [#1](https://github.com/dhairyaostwal/node-express-course/issues/1) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
-5. 🗣 Commented on [#33](https://github.com/HarshCasper/AllNotes/issues/33) in [HarshCasper/AllNotes](https://github.com/HarshCasper/AllNotes)
+1. ❗️ Closed issue [#8](https://github.com/dhairyaostwal/node-express-course/issues/8) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
+2. ❗️ Closed issue [#7](https://github.com/dhairyaostwal/node-express-course/issues/7) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
+3. ❗️ Reopened issue [#4](https://github.com/dhairyaostwal/node-express-course/issues/4) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
+4. ❗️ Closed issue [#4](https://github.com/dhairyaostwal/node-express-course/issues/4) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
+5. ❗️ Closed issue [#3](https://github.com/dhairyaostwal/node-express-course/issues/3) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
 <!--END_SECTION:activity-->
