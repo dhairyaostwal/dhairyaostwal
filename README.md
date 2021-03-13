@@ -7,6 +7,8 @@
 
 ☘️ **Frontend Developer [@onTribe](https://github.com/Tribe-Tech/)**
 
+🛠 **Side Project** I'm working on currently [finCLI, a Finance based CLI for developers](https://github.com/dhairyaostwal/finCLI)
+
 ❓ More about me [here](https://dhairyaostwal.netlify.app/)
 
 ### Recent Activity
