@@ -13,9 +13,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/dhairyaostwal/node-express-course/issues/8) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
-2. ❗️ Closed issue [#7](https://github.com/dhairyaostwal/node-express-course/issues/7) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
-3. ❗️ Reopened issue [#4](https://github.com/dhairyaostwal/node-express-course/issues/4) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
-4. ❗️ Closed issue [#4](https://github.com/dhairyaostwal/node-express-course/issues/4) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
-5. ❗️ Closed issue [#3](https://github.com/dhairyaostwal/node-express-course/issues/3) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
+1. 🎉 Merged PR [#3](https://github.com/dhairyaostwal/finCLI/pull/3) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
+2. ❗️ Closed issue [#8](https://github.com/dhairyaostwal/node-express-course/issues/8) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
+3. ❗️ Closed issue [#7](https://github.com/dhairyaostwal/node-express-course/issues/7) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
+4. ❗️ Reopened issue [#4](https://github.com/dhairyaostwal/node-express-course/issues/4) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
+5. ❗️ Closed issue [#4](https://github.com/dhairyaostwal/node-express-course/issues/4) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
 <!--END_SECTION:activity-->
