@@ -13,9 +13,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/dhairyaostwal/finCLI/pull/5) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
-2. ❗️ Closed issue [#4](https://github.com/dhairyaostwal/finCLI/issues/4) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
-3. 🗣 Commented on [#4](https://github.com/dhairyaostwal/finCLI/issues/4) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
-4. 🎉 Merged PR [#3](https://github.com/dhairyaostwal/finCLI/pull/3) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
-5. ❗️ Closed issue [#8](https://github.com/dhairyaostwal/node-express-course/issues/8) in [dhairyaostwal/node-express-course](https://github.com/dhairyaostwal/node-express-course)
+1. ❗️ Opened issue [#6](https://github.com/rajatdua/credcopy/issues/6) in [rajatdua/credcopy](https://github.com/rajatdua/credcopy)
+2. 🎉 Merged PR [#5](https://github.com/dhairyaostwal/finCLI/pull/5) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
+3. ❗️ Closed issue [#4](https://github.com/dhairyaostwal/finCLI/issues/4) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
+4. 🗣 Commented on [#4](https://github.com/dhairyaostwal/finCLI/issues/4) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
+5. 🎉 Merged PR [#3](https://github.com/dhairyaostwal/finCLI/pull/3) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
 <!--END_SECTION:activity-->
