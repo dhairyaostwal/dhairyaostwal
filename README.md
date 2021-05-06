@@ -13,9 +13,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/rajatdua/credcopy/issues/6) in [rajatdua/credcopy](https://github.com/rajatdua/credcopy)
-2. 🎉 Merged PR [#5](https://github.com/dhairyaostwal/finCLI/pull/5) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
-3. ❗️ Closed issue [#4](https://github.com/dhairyaostwal/finCLI/issues/4) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
-4. 🗣 Commented on [#4](https://github.com/dhairyaostwal/finCLI/issues/4) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
-5. 🎉 Merged PR [#3](https://github.com/dhairyaostwal/finCLI/pull/3) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
+1. 🎉 Merged PR [#4](https://github.com/pushoriginYourSpace/git-101/pull/4) in [pushoriginYourSpace/git-101](https://github.com/pushoriginYourSpace/git-101)
+2. 🎉 Merged PR [#2](https://github.com/pushoriginYourSpace/git-101/pull/2) in [pushoriginYourSpace/git-101](https://github.com/pushoriginYourSpace/git-101)
+3. 🎉 Merged PR [#3](https://github.com/pushoriginYourSpace/git-101/pull/3) in [pushoriginYourSpace/git-101](https://github.com/pushoriginYourSpace/git-101)
+4. 🎉 Merged PR [#1](https://github.com/pushoriginYourSpace/git-101/pull/1) in [pushoriginYourSpace/git-101](https://github.com/pushoriginYourSpace/git-101)
+5. 💪 Opened PR [#1](https://github.com/pushoriginYourSpace/git-101/pull/1) in [pushoriginYourSpace/git-101](https://github.com/pushoriginYourSpace/git-101)
 <!--END_SECTION:activity-->
