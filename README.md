@@ -13,9 +13,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/dhairyaostwal/TheNodeCourse/pull/29) in [dhairyaostwal/TheNodeCourse](https://github.com/dhairyaostwal/TheNodeCourse)
-2. 🎉 Merged PR [#8](https://github.com/dhairyaostwal/finCLI/pull/8) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
-3. 🎉 Merged PR [#6](https://github.com/dhairyaostwal/finCLI/pull/6) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
-4. 🎉 Merged PR [#7](https://github.com/dhairyaostwal/finCLI/pull/7) in [dhairyaostwal/finCLI](https://github.com/dhairyaostwal/finCLI)
-5. 🎉 Merged PR [#4](https://github.com/pushoriginYourSpace/git-101/pull/4) in [pushoriginYourSpace/git-101](https://github.com/pushoriginYourSpace/git-101)
+1. ❗️ Opened issue [#6](https://github.com/finCLI/finCLI/issues/6) in [finCLI/finCLI](https://github.com/finCLI/finCLI)
+2. 🎉 Merged PR [#1](https://github.com/finCLI/finCLI/pull/1) in [finCLI/finCLI](https://github.com/finCLI/finCLI)
+3. 🎉 Merged PR [#2](https://github.com/finCLI/finCLI/pull/2) in [finCLI/finCLI](https://github.com/finCLI/finCLI)
+4. 🎉 Merged PR [#4](https://github.com/finCLI/finCLI/pull/4) in [finCLI/finCLI](https://github.com/finCLI/finCLI)
+5. 🎉 Merged PR [#29](https://github.com/dhairyaostwal/TheNodeCourse/pull/29) in [dhairyaostwal/TheNodeCourse](https://github.com/dhairyaostwal/TheNodeCourse)
 <!--END_SECTION:activity-->
