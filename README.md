@@ -13,9 +13,9 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/apoorvareddy612/Kdramas_Analysis/issues/1) in [apoorvareddy612/Kdramas_Analysis](https://github.com/apoorvareddy612/Kdramas_Analysis)
-2. ❗️ Opened issue [#6](https://github.com/finCLI/finCLI/issues/6) in [finCLI/finCLI](https://github.com/finCLI/finCLI)
-3. 🎉 Merged PR [#1](https://github.com/finCLI/finCLI/pull/1) in [finCLI/finCLI](https://github.com/finCLI/finCLI)
-4. 🎉 Merged PR [#2](https://github.com/finCLI/finCLI/pull/2) in [finCLI/finCLI](https://github.com/finCLI/finCLI)
-5. 🎉 Merged PR [#4](https://github.com/finCLI/finCLI/pull/4) in [finCLI/finCLI](https://github.com/finCLI/finCLI)
+1. ❗️ Opened issue [#1](https://github.com/offencive/FamPay-Frontend-Task/issues/1) in [offencive/FamPay-Frontend-Task](https://github.com/offencive/FamPay-Frontend-Task)
+2. ❗️ Opened issue [#1](https://github.com/apoorvareddy612/Kdramas_Analysis/issues/1) in [apoorvareddy612/Kdramas_Analysis](https://github.com/apoorvareddy612/Kdramas_Analysis)
+3. ❗️ Opened issue [#6](https://github.com/finCLI/finCLI/issues/6) in [finCLI/finCLI](https://github.com/finCLI/finCLI)
+4. 🎉 Merged PR [#1](https://github.com/finCLI/finCLI/pull/1) in [finCLI/finCLI](https://github.com/finCLI/finCLI)
+5. 🎉 Merged PR [#2](https://github.com/finCLI/finCLI/pull/2) in [finCLI/finCLI](https://github.com/finCLI/finCLI)
 <!--END_SECTION:activity-->
