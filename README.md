@@ -10,7 +10,7 @@
 🛠 **Side Project** I'm working on currently **[finCLI, a Finance based CLI for developers](https://github.com/dhairyaostwal/finCLI)**
 
 ❓ More about me [here](https://dhairyaostwal.netlify.app/)
-
+<!-- 
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/offencive/FamPay-Frontend-Task/issues/1) in [offencive/FamPay-Frontend-Task](https://github.com/offencive/FamPay-Frontend-Task)
@@ -19,3 +19,4 @@
 4. 🎉 Merged PR [#1](https://github.com/finCLI/finCLI/pull/1) in [finCLI/finCLI](https://github.com/finCLI/finCLI)
 5. 🎉 Merged PR [#2](https://github.com/finCLI/finCLI/pull/2) in [finCLI/finCLI](https://github.com/finCLI/finCLI)
 <!--END_SECTION:activity-->
+ -->
