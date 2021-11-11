@@ -6,6 +6,6 @@
 
 ☘️ Previously, **Frontend Developer & Product Manager [@onTribe](https://github.com/Tribe-Tech/)**
 
-🛠 **Side Project** I'm working on currently **[finCLI, a Finance based CLI for developers](https://github.com/dhairyaostwal/finCLI)**
+🛠 **Side Project** Recently built **[news-api for finCLI(a Finance based CLI for developers)](https://github.com/finCLI/news-api)**
 
 🚀 More about me [here](https://dhairyaostwal.netlify.app/)
