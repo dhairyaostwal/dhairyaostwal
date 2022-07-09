@@ -6,7 +6,7 @@
 
 ✍️ Subscribe to my [newsletter](https://pratiphal.substack.com/)
 
-☘️ Previously, Frontend Developer & Product Manager [@onTribe](https://github.com/Tribe-Tech/)
+☘️ Presently, Software Engineering Intern at [Akamai Technologies](https://github.com/akamai)
 
 🛠 **Side Project:** Recently built [finCLI-Chrome, a Chrome extension that gets you the latest <1 hour Finance news on the internet](https://github.com/finCLI/finCLI-Chrome)
 
