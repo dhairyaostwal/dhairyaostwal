@@ -11,3 +11,7 @@
 🛠 **Side Project:** Recently built [finCLI-Chrome, a Chrome extension that gets you the latest <1 hour Finance news on the internet](https://github.com/finCLI/finCLI-Chrome)
 
 🚀 More about me [here](https://dhairyaostwal.netlify.app/)
+
+[A](https://drive.google.com/file/d/1iaB41ukVe79IeYgLY3nRD6WJrLO3GmLn/view?usp=sharing)
+
+[B](https://drive.google.com/file/d/12loHW8DGDJ2bR76XcZaUmYWh9aW93A8S/view?usp=sharing)
