@@ -6,7 +6,9 @@
 
 ✍️ Subscribe to my [newsletter](https://pratiphal.substack.com/)
 
-☘️ Presently, Software Engineering Intern at [Akamai Technologies](https://github.com/akamai)
+🏆 [JP Morgan Code for Good 2022 Winner](https://www.linkedin.com/feed/update/urn:li:activity:6939443178378772480/)
+
+☘️ Previously, Software Engineering Intern at [Akamai Technologies](https://github.com/akamai)
 
 🛠 **Side Project:** Recently built [finCLI-Chrome, a Chrome extension that gets you the latest <1 hour Finance news on the internet](https://github.com/finCLI/finCLI-Chrome)
 
