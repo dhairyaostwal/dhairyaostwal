@@ -6,10 +6,12 @@
 
 ✍️ Subscribe to my [newsletter](https://pratiphal.substack.com/)
 
+💼 Software Engineer at [Akamai Technologies](https://github.com/akamai)
+
+🏦 Previously, sent legacy applications to the cloud at [JP Morgan Chase & Co.](https://www.jpmorganchase.com/)
+
 🏆 [JP Morgan Code for Good 2022 Winner](https://www.linkedin.com/feed/update/urn:li:activity:6939443178378772480/)
 
-☘️ Previously, Software Engineering Intern at [Akamai Technologies](https://github.com/akamai)
-
-🛠 **Side Project:** Recently built [finCLI-Chrome, a Chrome extension that gets you the latest <1 hour Finance news on the internet](https://github.com/finCLI/finCLI-Chrome)
+🛠 **Side Project:** Creating low level designs at [@pratiphal](https://github.com/pratiphal)
 
 🚀 More about me [here](https://dhairyaostwal.netlify.app/)
